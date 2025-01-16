@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Florian i'm a 🇫🇷French web developer currently enrolled in a Pre-MSc program at Epitech.<br>My focus is on enhancing my skills in modern web technologies and building practical, real-world solutions.</p>
+<h4 align="left">My name is Florian i'm a 🇫🇷French web developer currently enrolled in a Pre-MSc program at Epitech.<br>My focus is on enhancing my skills in modern web technologies and building practical, real-world solutions.</h4>
 
 ###
 
@@ -36,13 +36,13 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FlorianBeudaert&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="175" alt="stats graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FlorianBeudaert&locale=fr&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="175" alt="languages graph"  />
 </div>
 
@@ -52,7 +52,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/florian-beudaert/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
